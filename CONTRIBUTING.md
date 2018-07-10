@@ -37,7 +37,7 @@ This is an android based application and to start contributing in this you need 
 ## How Can I Contribute?
 
 -   Check out the issues on this repository.
--   Comment on the issues[https://github.com/CodeDocsJECRC/CodeDocs-App/issues] before start working on them.
+-   Comment on the [issues](https://github.com/CodeDocsJECRC/CodeDocs-App/issues) before start working on them.
 -   Start contributing :tada:.
 
 ### Reporting Bugs
@@ -113,7 +113,7 @@ _You can see that the commit is more readable and understandable in the good com
 
 ## Project Setup Instructions
 
--   Go through README.md [https://github.com/CodeDocsJECRC/CodeDocs-App/blob/master/README.md]
+-   Go through [README.md](https://github.com/CodeDocsJECRC/CodeDocs-App/blob/master/README.md)
 
 ### Fork the Project
 
